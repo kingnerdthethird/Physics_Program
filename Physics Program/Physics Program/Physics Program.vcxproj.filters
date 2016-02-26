@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Topics">
+      <UniqueIdentifier>{6f9e7b0f-47f6-43a0-bded-c5999ffebcc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Topics">
+      <UniqueIdentifier>{26058909-806a-4163-947e-ff93c2778841}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -24,6 +30,21 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Mechanics.h">
+      <Filter>Header Files\Topics</Filter>
+    </ClInclude>
+    <ClInclude Include="ElectricityAndMagnetism.h">
+      <Filter>Header Files\Topics</Filter>
+    </ClInclude>
+    <ClInclude Include="FluidMechanicsAndThermalPhysics.h">
+      <Filter>Header Files\Topics</Filter>
+    </ClInclude>
+    <ClInclude Include="WavesAndOptics.h">
+      <Filter>Header Files\Topics</Filter>
+    </ClInclude>
+    <ClInclude Include="ModernPhysics.h">
+      <Filter>Header Files\Topics</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -31,6 +52,21 @@
     </ClCompile>
     <ClCompile Include="Physics Program.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mechanics.cpp">
+      <Filter>Source Files\Topics</Filter>
+    </ClCompile>
+    <ClCompile Include="ElectricityAndMagnetism.cpp">
+      <Filter>Source Files\Topics</Filter>
+    </ClCompile>
+    <ClCompile Include="FluidMechanicsAndThermalPhysics.cpp">
+      <Filter>Source Files\Topics</Filter>
+    </ClCompile>
+    <ClCompile Include="WavesAndOptics.cpp">
+      <Filter>Source Files\Topics</Filter>
+    </ClCompile>
+    <ClCompile Include="ModernPhysics.cpp">
+      <Filter>Source Files\Topics</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
