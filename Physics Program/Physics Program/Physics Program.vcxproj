@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClInclude Include="ElectricityAndMagnetism.h" />
     <ClInclude Include="FluidMechanicsAndThermalPhysics.h" />
+    <ClInclude Include="GeneralResources.h" />
     <ClInclude Include="Mechanics.h" />
     <ClInclude Include="ModernPhysics.h" />
     <ClInclude Include="stdafx.h" />
@@ -156,6 +157,7 @@
   <ItemGroup>
     <ClCompile Include="ElectricityAndMagnetism.cpp" />
     <ClCompile Include="FluidMechanicsAndThermalPhysics.cpp" />
+    <ClCompile Include="GeneralResources.cpp" />
     <ClCompile Include="Mechanics.cpp" />
     <ClCompile Include="ModernPhysics.cpp" />
     <ClCompile Include="Physics Program.cpp" />

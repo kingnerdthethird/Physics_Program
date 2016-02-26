@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  WavesAndOptics.cpp
+  Physics Program.cpp
+c:\users\ashsp\onedrive\phyics\physics_program\physics program\physics program\physics program.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ModernPhysics.cpp
+  Mechanics.cpp
+  GeneralResources.cpp
+  FluidMechanicsAndThermalPhysics.cpp
+  ElectricityAndMagnetism.cpp
+  Generating Code...
+  Physics Program.vcxproj -> C:\Users\Ashsp\OneDrive\Phyics\Physics_Program\Physics Program\Debug\Physics Program.exe

@@ -45,6 +45,9 @@
     <ClInclude Include="ModernPhysics.h">
       <Filter>Header Files\Topics</Filter>
     </ClInclude>
+    <ClInclude Include="GeneralResources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -67,6 +70,9 @@
     </ClCompile>
     <ClCompile Include="ModernPhysics.cpp">
       <Filter>Source Files\Topics</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneralResources.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
